@@ -3,7 +3,7 @@
 
 footer{
     background-color: #333;
-    color: black;
+    color: #f2f2f2;
     font-size: 16px;
     font-weight: 400;
     padding: 50px;
@@ -16,7 +16,9 @@ footer{
     overflow: hidden;
   }
   
-  
+.texto{
+	  color: #f2f2f2;
+  }
   .barra a {
     float: left;
     color: #f2f2f2;
@@ -101,6 +103,7 @@ button{
 	width: 420px;   
     cursor: pointer;
 
+
 }
 
 
@@ -140,9 +143,19 @@ span{
 	color: #f2f2f2; 
 }
 
+.pie{
+	color: #f2f2f2;
+}
 
+.imagenes{
+	display: block;
+	margin: auto;
+	align-items: center;
+	text-align: center;
+	margin-top: 1%;
+}
 
-
-
-
-  
+.polaroid{
+	text-align: center;
+	padding: 10px 20px;
+}
